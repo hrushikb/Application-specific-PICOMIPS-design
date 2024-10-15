@@ -1,0 +1,11 @@
+`define NOP 6'b000000
+`define ADD 6'b000001
+`define ADDI 6'b000010
+`define SUB 6'b000011
+`define SUBI 6'b000100
+`define MUL 6'b000101
+`define MULI 6'b000110
+`define SHOW 6'b000111
+`define ADDS 6'b001000
+`define BREL 6'b001001
+`define BABS 6'b001010
